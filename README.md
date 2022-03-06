@@ -17,7 +17,7 @@
 - **블로그 :** [https://velog.io/@urtimeislimited](https://velog.io/@urtimeislimited) **✏️**
 - **Github** :  ****[https://github.com/Learrrn](https://github.com/Learrrn) 📓
 
-[https://ghchart.rshah.org/219138/Learrrn](https://ghchart.rshah.org/219138/Learrrn)
+![https://ghchart.rshah.org/219138/Learrrn](https://ghchart.rshah.org/219138/Learrrn)
 
 ***
 https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
