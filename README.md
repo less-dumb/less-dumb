@@ -21,4 +21,5 @@
 - **Github** :  ****[https://github.com/Learrrn](https://github.com/Learrrn) 📓
 
 [https://ghchart.rshah.org/219138/Learrrn](https://ghchart.rshah.org/219138/Learrrn)
+<br/>
 https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
