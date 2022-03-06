@@ -7,7 +7,7 @@ I want to be a great engineer who make service that will improve our lives.👨�
 
 # **Skills ⚒**
 ![](https://img.shields.io/badge/-Java-orange)
-![](https://img.shields.io/badge/-MVC-green)
+![](https://img.shields.io/badge/-Spring MVC-green)
 ![](https://img.shields.io/badge/-SpringBoot-brightgreen)
 ![](https://img.shields.io/badge/-JPA-blueviolet)
 ![](https://img.shields.io/badge/-SpringDataJpa-yellowgreen)
