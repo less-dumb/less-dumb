@@ -7,7 +7,7 @@ I want to be a great engineer who make service that will improve our lives.ðŸ‘¨â
 
 # **Skills âš’**
 ![](https://img.shields.io/badge/-Java-orange)
-![](https://img.shields.io/badge/-Spring MVC-green)
+![](https://img.shields.io/badge/-SpringMVC-green)
 ![](https://img.shields.io/badge/-SpringBoot-brightgreen)
 ![](https://img.shields.io/badge/-JPA-blueviolet)
 ![](https://img.shields.io/badge/-SpringDataJpa-yellowgreen)
@@ -15,10 +15,10 @@ I want to be a great engineer who make service that will improve our lives.ðŸ‘¨â
 ![](https://img.shields.io/badge/-Git-%23000000)
 
 
-- Junit, Mockito
+<!-- - Junit, Mockito
 - Gradle
 - IntelliJ, Visual Studio Code
-- Git
+- Git -->
 
 
 ***
