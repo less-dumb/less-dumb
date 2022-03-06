@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 ![https://ghchart.rshah.org/219138/Learrrn](https://ghchart.rshah.org/219138/Learrrn)
 
-https://img.shields.io/badge/Velog-green?style=flat-square&logo=#20C997&logoColor=white&link=https://velog.io/@urtimeislimited
+![https://img.shields.io/badge/Velog-green?style=flat-square&logo=#20C997&logoColor=white&link=](https://velog.io/@urtimeislimited)
