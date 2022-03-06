@@ -2,7 +2,7 @@
 
 
 # **Hello**  🧑🏻‍💻
-I'm JooHyeong Kim, a growing developer. 🧗
+I'm JooHyeong Kim, a growing developer. 🧗 <br/>
 I want to be a great engineer who make service that will improve our lives.👨‍🔧
 ---
 # **Skills ⚒**
