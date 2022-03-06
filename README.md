@@ -9,9 +9,9 @@ I want to be a great engineer who make service that will improve our lives.ðŸ‘¨â
 ![](https://img.shields.io/badge/-Java-orange)
 ![](https://img.shields.io/badge/-MVC-green)
 ![](https://img.shields.io/badge/-SpringBoot-brightgreen)
+![](https://img.shields.io/badge/-JPA-blueviolet)
 ![](https://img.shields.io/badge/-SpringDataJpa-yellowgreen)
 ![](https://img.shields.io/badge/-Querydsl-blue)
-![](https://img.shields.io/badge/-Gradle-blueviolet)
 ![](https://img.shields.io/badge/-Git-%23000000)
 
 
