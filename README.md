@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=808080&text=김주형🔥&fontSize=60&fontColor=FFFFFF&height=200)
----
 
 
 # **Hello**  🧑🏻‍💻
-I'm JooHyeong Kim, a growing developer. 🌱
-I want to be a great engineer who make service that will improve our lives.✨
+I'm JooHyeong Kim, a growing developer. 🧗
+I want to be a great engineer who make service that will improve our lives.👨‍🔧
 ---
 # **Skills ⚒**
 - Java
