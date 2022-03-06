@@ -23,5 +23,6 @@
 
 ***
 ![](http://img.shields.io/badge/-Velog-20C997?style=flat(Velog)&logo=Velog&link=https://velog.io/@urtimeislimited)
+![](http://img.shields.io/badge/-Github-#181717?style=flat(Github)&logo=Github&link=https://github.com/Learrrn)
 ![](https://img.shields.io/github/followers/Learrrn?style=social)
-![](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://github.com/Learrrn)
+
