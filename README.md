@@ -1,3 +1,4 @@
+![header](https://김주형.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 # 전념을 즐기는 사람, 김주형입니다! 🔥
 
 
