@@ -13,9 +13,9 @@
 
 ## **Contact & Channel**
 
-- **이메일** : wnguddl96@knou.ac.kr ****📧
-- **블로그 :** [https://velog.io/@urtimeislimited](https://velog.io/@urtimeislimited) **✏️**
-- **Github** :  ****[https://github.com/Learrrn](https://github.com/Learrrn) 📓
+- **이메일** : wnguddl96@knou.ac.kr 📧
+- **블로그 : [https://velog.io/@urtimeislimited](https://velog.io/@urtimeislimited) ✏️
+- **Github** :  [https://github.com/Learrrn](https://github.com/Learrrn) 📓
 
 ![https://ghchart.rshah.org/219138/Learrrn](https://ghchart.rshah.org/219138/Learrrn)
 
