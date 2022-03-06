@@ -20,6 +20,8 @@
 
 ![https://ghchart.rshah.org/219138/Learrrn](https://ghchart.rshah.org/219138/Learrrn)
 
+
 ***
-![](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@Learrrn)
+![](http://img.shields.io/badge/-Velog-20C997?style=flat(Velog)&logo=Velog&link=https://velog.io/@urtimeislimited)
 ![](https://img.shields.io/github/followers/Learrrn?style=social)
+![](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://github.com/Learrrn)
