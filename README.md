@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?text=김주형&animation=fadeIn)
-# 
+![header](https://capsule-render.vercel.app/api?type=soft)
+전념을 즐기는 사람, 김주형입니다! 🔥
 
 
 # **About Me**  🧑🏻‍💻
