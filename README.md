@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=auto&text=%20김주형🔥%20&fontSize=40&fontColor=#FFFFFF&type=soft&height=200textBg=true)
+![header](https://capsule-render.vercel.app/api?color=auto&text=%20김주형🔥%20&fontSize=40&fontColor=#FFFFFF&type=soft&height=200&textBg=true)
 ---
 
 
