@@ -2,7 +2,7 @@
 
 
 # **About Me**  👀
-- <span style="font-size:100%">**Hi, I'm JooHyeong Kim. A growing developer. 🧗**</span> <br/>
+## **Hi, I'm JooHyeong Kim. A growing developer. 🧗** <br/>
 - **I wanted to dedicate my life to a clear vision. 🔥** <br/>
 - **That's why I want to be a great engineer who creating services that will improve our lives.👨‍💻**
 
