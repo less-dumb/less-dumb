@@ -1,12 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=ff5e3a&text=🧗🧗🧗&fontSize=60&fontColor=FFFFFF&height=200)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=ff5e3a&text=**Hello! 🙋‍♂️**&fontSize=60&fontColor=FFFFFF&height=200)
 
 
-# **Hello!**  🙋‍♂
-
-
-- **Hi, I'm JooHyeong Kim. A growing developer. 🧑🏻‍💻** <br/>
-- **I wanted to dedicate my life to a clear vision. 🔥** <br/>
-- **That's why I want to be a great engineer creating services that will improve our lives.👨‍**
+# **About Me**  ♂
+- **Hi, I'm JooHyeong Kim. A growing developer. 🧗🧗🧗** <br/>
+- **I wanted to dedicate my life to a clear vision. 🔥🔥🔥** <br/>
+- **That's why I want to be a great engineer creating services that will improve our lives.👨‍💻👨‍💻👨‍💻**
 
 # **Skills ⚒**
 ![](https://img.shields.io/badge/-Java-orange)
