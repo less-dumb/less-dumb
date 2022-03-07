@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=ff5e3a&text=🧗🧗🧗&fontSize=60&fontColor=FFFFFF&height=200)
 
 
-# **Hello!**  🧑🏻‍💻
+# **Hello!**  🙋‍♂️🧑🏻‍💻
 
-**I'm JooHyeong Kim, a growing developer. 🧗 <br/>
+**Hi, I'm JooHyeong Kim. A growing developer. 🧑🏻‍💻 <br/>
 I want to be a great engineer who make service that will improve our lives.👨‍🔧**
 
 # **Skills ⚒**
