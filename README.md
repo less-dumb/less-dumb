@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=ff5e3a&text=Hello!🙋‍♂️&fontSize=60&fontColor=FFFFFF&height=200)
 
 
-# **About Me**  ♂
+# **About Me**  👀
 - **Hi, I'm JooHyeong Kim. A growing developer. 🧗** <br/>
 - **I wanted to dedicate my life to a clear vision. 🔥** <br/>
 - **That's why I want to be a great engineer creating services that will improve our lives.👨‍💻**
