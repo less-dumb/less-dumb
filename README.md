@@ -3,8 +3,10 @@
 
 # **Hello!**  🙋‍♂
 
-**Hi, I'm JooHyeong Kim. A growing developer. 🧑🏻‍💻 <br/>
-I want to be a great engineer who make service that will improve our lives.👨‍🔧**
+
+- **Hi, I'm JooHyeong Kim. A growing developer. 🧑🏻‍💻** <br/>
+- **I wanted to dedicate my life to a clear vision.🔥** <br/>
+- **That's why I want to be a great engineer creating services that will improve our lives.👨‍**
 
 # **Skills ⚒**
 ![](https://img.shields.io/badge/-Java-orange)
