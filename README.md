@@ -2,9 +2,11 @@
 
 
 # **About Me**  👀
-- **Hi, I'm JooHyeong Kim. A growing developer. 🧗** <br/>
-- **I wanted to dedicate my life to a clear vision. 🔥** <br/>
-- **That's why I want to be a great engineer who creating services that will improve our lives. 👨‍💻**
+
+
+- **Hi, I'm JooHyeong Kim. A growing developer by immersive. 🧗** <br/>
+- **I wanted to dedicate my life to a clear vision for realizing values that improve our lives. 🔥** <br/>
+- **That's the reason I want to be a engineer who creating great services.👨‍💻**
 
 # **Skills ⚒**
 ![](https://img.shields.io/badge/-Java-orange)
